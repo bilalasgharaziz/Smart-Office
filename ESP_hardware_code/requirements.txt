@@ -1,0 +1,2 @@
+Aurdino ide latest version
+ESP32 Firebase library version 4.2.7 by Mobizt
